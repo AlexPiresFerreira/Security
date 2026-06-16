@@ -680,15 +680,3 @@
 
 ---
 
-ACAD-TI
-
-die - detect easy it  
-PE explorer  
-peid  
-readelf  
-readelf -h binario
-thetheef  
-njrat
-
-
-equipe@acaditi.com.br
