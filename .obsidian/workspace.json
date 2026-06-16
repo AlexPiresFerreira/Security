@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relatrório/Geral.md",
+                "file": "1. Lab/1.2. fork bomb em Bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geral"
+              "title": "1.2. fork bomb em Bash"
             }
           }
         ],
@@ -199,6 +199,10 @@
   },
   "active": "1f8417b074ce094c",
   "lastOpenFiles": [
+    "1. Lab/attachments/Comando Linux.png",
+    "1. Lab/attachments",
+    "Relatrório/Geral.md",
+    "1. Lab/1.2. fork bomb em Bash.md",
     "Certificações/Certificacoes-Recomendadas.md",
     "Certificações/CHE/Blueprint.md",
     "Certificações/CHE/ACADI-TI.md",
@@ -224,11 +228,8 @@
     "Ferramentas/Nuclei.md",
     "Ferramentas/Netstat.md",
     "Ferramentas/Docker.md",
-    "Ferramentas/Bash-Scripting.md",
-    "Ferramentas/Analise-de-Logs.md",
     "6. Programação/Expressões regulares/attachments/Pasted image 20260615163922.png",
     "6. Programação/Expressões regulares/attachments",
-    "6. Programação/Expressões regulares/2. TABELA DE CARACTERES ASCII.md",
     "6. Programação/Expressões regulares",
     "6. Programação/Sem título",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144451.png",
@@ -244,7 +245,6 @@
     "6. Programação/Python/2. Projetos",
     "6. Programação/Python/Sem título",
     "6. Programação/0. IDLE/attachments",
-    "6. Programação/0. IDLE",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
