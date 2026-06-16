@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/OWASP-Top 10.md",
+                "file": "Certificações/CHE/Simulado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OWASP-Top 10"
+              "title": "Simulado"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,6 +195,11 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
+    "Certificações/CHE/ACADI-TI.md",
+    "Certificações/CHE/Simulado.md",
+    "Certificações/CHE/Blueprint.md",
+    "Certificações/Certificacoes-Recomendadas.md",
+    "Frameworks/OWASP-Top 10.md",
     "Ferramentas/NMAP/🔍 NMAP - Network Mapper.md",
     "Security.7z",
     "Security.zip",
@@ -217,21 +223,16 @@
     "1. Lab/attachments/Comando Linux.png",
     "1. Lab/attachments",
     "Relatrório/Geral.md",
-    "Certificações/Certificacoes-Recomendadas.md",
-    "Certificações/CHE/Blueprint.md",
-    "Certificações/CHE/ACADI-TI.md",
     "00_Index.md",
     "CEH.md",
     "Certificações/CHE",
     "0. Inbox/0. Inbox.md",
-    "Frameworks/OWASP-Top 10.md",
     "Frameworks/CIS-Controls.md",
     "Frameworks/Cyber-Kill-Chain.md",
     "Frameworks/Metasploit.md",
     "Frameworks/MITRE-ATT&CK.md",
     "Frameworks/NIST-Cybersecurity.md",
     "Ameaças/Tipos-de-Ataques.md",
-    "Ameaças/Hackers-e-Teams.md",
     "1. Lab",
     "6. Programação/Expressões regulares/attachments/Pasted image 20260615163922.png",
     "6. Programação/Expressões regulares/attachments",
