@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Web/URL.md",
+                "file": "Ferramentas/NMAP/🔍 NMAP - Network Mapper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "URL"
+              "title": "🔍 NMAP - Network Mapper"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "honey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,17 +195,21 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "1f8417b074ce094c",
   "lastOpenFiles": [
+    "Ameaças/Malwares.md",
+    "OSINT/Ferramentas - Rede Social.md",
+    "OSINT/OSINT-Fundamentos.md",
+    "Pentest/Web/URL.md",
     "Pentest/Web/attachments/URLParts.png",
     "Pentest/Web/attachments/Pasted image 20260616121734.png",
     "Pentest/Web/attachments/URL.png",
     "Pentest/Web/attachments",
     "Pentest/Sem título.md",
-    "Pentest/Web/URL.md",
     "Pentest/Web",
     "Pentest/Trainning Education.md",
     "2. Conceitos/2.2. Ferramentas de Privacidade Digital.md",
@@ -230,10 +235,8 @@
     "Frameworks/MITRE-ATT&CK.md",
     "Frameworks/NIST-Cybersecurity.md",
     "Ameaças/Tipos-de-Ataques.md",
-    "Ameaças/Malwares.md",
     "Ameaças/Hackers-e-Teams.md",
     "Ameaças/Adversarios.md",
-    "1. Lab/1.1. VM.md",
     "1. Lab",
     "6. Programação/Expressões regulares/attachments/Pasted image 20260615163922.png",
     "6. Programação/Expressões regulares/attachments",
@@ -244,7 +247,6 @@
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144435.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144423.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144416.png",
-    "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144410.png",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
