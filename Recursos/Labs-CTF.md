@@ -552,7 +552,7 @@ Avançado:
 ## 🔗 Links Relacionados
 
 - [[Nmap]]
-- [[Metasploit]]
+- [[Ferramentas/Metasploit]]
 - [[Burp-Suite]]
 - [[OSINT-Fundamentos]]
 - [[Esteganografia]]
