@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "honey",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +198,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1f8417b074ce094c",
+  "active": "45756af9d66e8685",
   "lastOpenFiles": [
     "Ameaças/Malwares.md",
     "OSINT/Ferramentas - Rede Social.md",
