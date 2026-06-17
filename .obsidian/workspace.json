@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/Google Hacking.md",
+                "file": "Frameworks/MITRE-ATT&CK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Hacking"
+              "title": "MITRE-ATT&CK"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
-    "Certificações/CHE/Simulado.md",
     "OSINT/Google Hacking.md",
+    "Certificações/CHE/Simulado.md",
     "Certificações/CHE/ACADI-TI.md",
     "Certificações/CHE/Blueprint.md",
     "Certificações/Certificacoes-Recomendadas.md",

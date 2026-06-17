@@ -450,3 +450,265 @@ Plataforma de emulação de adversários automatizada.
 - Atomic Red Team: [atomicredteam.io](https://atomicredteam.io)
 - CALDERA: [github.com/mitre/caldera](https://github.com/mitre/caldera)
 - ATT&CK Navigator: [mitre-attack.github.io/attack-navigator](https://mitre-attack.github.io/attack-navigator)
+
+---
+
+## 1. Conceitos principais
+
+### IoC — Indicadores de comprometimento
+
+- São informações que ajudam a identificar a presença de um atacante no ambiente.
+- Exemplos:
+    - IP
+    - domínio
+    - hash
+    - arquivo
+    - comportamento suspeito
+
+### Pyramid of Pain
+
+- Mostra quais indicadores causam mais “dor” para o atacante quando você consegue detectá-los.
+- Em geral:
+    - **hashes** e **IPs** são mais fáceis de trocar
+    - **ferramentas** e principalmente **TTPs** são mais valiosas para defesa
+
+### TTP
+
+- **Táticas** → o objetivo do atacante
+- **Técnicas** → como ele alcança o objetivo
+- **Procedimentos** → o passo a passo específico usado na execução
+
+---
+
+## 2. Casos de uso do ATT&CK
+
+### Detecção e Analytics
+
+- Usado para transformar comportamento de ataque em regras e alertas.
+- Ajuda a mapear quais técnicas sua equipe já consegue detectar.
+
+### Threat Intelligence
+
+- Ajuda a analisar campanhas, grupos e técnicas usadas por atacantes.
+- Serve para conectar relatórios de ameaça ao ATT&CK.
+
+### Assessment
+
+- Usado para avaliar maturidade e cobertura de defesa.
+- Mostra lacunas de visibilidade e detecção.
+
+### Red Team / Blue Team
+
+- **Red Team** simula o adversário.
+- **Blue Team** tenta detectar, conter e responder.
+- O ATT&CK ajuda os dois lados a falarem a mesma linguagem.
+
+---
+
+## 3. Níveis de maturidade
+
+### Detecção — Nível 1
+
+- Selecionar 2 a 3 técnicas do ATT&CK.
+- Identificar fontes de dados.
+- Verificar se os dados estão centralizados no SIEM.
+- Buscar regras prontas criadas por outros especialistas.
+- Fazer testes básicos para validar a detecção.
+
+### Detecção — Nível 2
+
+- Criar a regra de detecção.
+- Executar testes.
+- Identificar e remover falsos positivos.
+- Validar se a detecção funciona corretamente.
+
+### Detecção — Nível 3
+
+- Cobrir variantes de uma técnica.
+- Criar mapas de calor de cobertura.
+- Refinar eventos para evitar sobrecarga no SIEM.
+- Reduzir fadiga de alertas no SOC.
+
+---
+
+## 4. Threat Intelligence
+
+### Nível 1
+
+- Começar com grupos e comportamento geral.
+
+### Nível 2
+
+- Relacionar relatórios com técnicas específicas.
+- Cruzar campanhas e TTPs.
+
+### Nível 3
+
+- Fazer análise mais profunda e contextualizada.
+- Trabalhar inteligência com maior maturidade.
+
+---
+
+## 5. Emulação de adversários
+
+### Nível 1
+
+- Usar exemplos e testes mais simples.
+
+### Nível 2
+
+- Planejar emulação baseada em técnicas e softwares do ATT&CK.
+
+### Nível 3
+
+- Fazer emulação mais completa e fiel ao adversário.
+- Exige maior maturidade operacional.
+
+---
+
+## 6. ATT&CK Navigator
+
+- Ferramenta para **visualizar cobertura**, **lacunas** e **mapas de calor**.
+- Útil para:
+    - marcar técnicas já detectadas
+    - comparar cenários
+    - planejar melhorias de defesa
+
+---
+
+# URLs para consulta
+
+## MITRE ATT&CK
+
+- **Framework principal**  
+    [https://attack.mitre.org](https://attack.mitre.org/)
+    
+- **Técnicas Enterprise**  
+    [https://attack.mitre.org/techniques/enterprise/](https://attack.mitre.org/techniques/enterprise/)
+    
+- **Técnica T1078**  
+    [https://attack.mitre.org/techniques/T1078/](https://attack.mitre.org/techniques/T1078/)
+    
+- **Técnica T1199**  
+    [https://attack.mitre.org/techniques/T1199/](https://attack.mitre.org/techniques/T1199/)
+    
+- **Técnica T1203**  
+    [https://attack.mitre.org/techniques/T1203/](https://attack.mitre.org/techniques/T1203/)
+    
+- **Resources**  
+    [https://attack.mitre.org/resources/](https://attack.mitre.org/resources/)
+    
+- **Groups**  
+    [https://attack.mitre.org/groups/](https://attack.mitre.org/groups/)
+    
+- **Software**  
+    [https://attack.mitre.org/software/](https://attack.mitre.org/software/)
+    
+- **Campaigns**  
+    [https://attack.mitre.org/campaigns/](https://attack.mitre.org/campaigns/)
+    
+
+---
+
+## Pyramid of Pain
+
+- **Artigo original**  
+    [https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+
+---
+
+## TTP / Glossário
+
+- **NIST — TTP**  
+    [https://csrc.nist.gov/glossary/term/tactics_techniques_and_procedures](https://csrc.nist.gov/glossary/term/tactics_techniques_and_procedures)
+
+---
+
+## Kill Chain / Táticas
+
+- **Lockheed Martin — Cyber Kill Chain**  
+    [https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+
+---
+
+## Detecção
+
+- **MITRE — Getting Started with ATT&CK Detection**  
+    [https://medium.com/mitre-attack/getting-started-with-attack-detection-a8e49e4960d0](https://medium.com/mitre-attack/getting-started-with-attack-detection-a8e49e4960d0)
+    
+- **SigmaHQ**  
+    [https://github.com/SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
+    
+- **Exemplo de técnica ligada à detecção**  
+    [https://attack.mitre.org/techniques/T1199/](https://attack.mitre.org/techniques/T1199/)
+    
+- **Documento do DOJ**  
+    [https://www.justice.gov/file/1080281/download](https://www.justice.gov/file/1080281/download)
+    
+
+---
+
+## Threat Intelligence
+
+- **MITRE — Getting Started with ATT&CK CTI**  
+    [https://medium.com/mitre-attack/getting-started-with-attack-cti-4eb205be4b2f](https://medium.com/mitre-attack/getting-started-with-attack-cti-4eb205be4b2f)
+    
+- **Lifecycle de threat intelligence**  
+    [https://www.recordedfuture.com/blog/threat-intelligence-lifecycle-phases](https://www.recordedfuture.com/blog/threat-intelligence-lifecycle-phases)
+    
+- **Definição de threat intelligence**  
+    [https://www.techtarget.com/whatis/definition/threat-intelligence-cyber-threat-intelligence](https://www.techtarget.com/whatis/definition/threat-intelligence-cyber-threat-intelligence)
+    
+- **Exemplo de grupo**  
+    [https://attack.mitre.org/groups/](https://attack.mitre.org/groups/)
+    
+- **Exemplo de relatório APT37**  
+    [https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf)
+    
+- **Exemplo de técnica T1203**  
+    [https://attack.mitre.org/techniques/T1203/](https://attack.mitre.org/techniques/T1203/)
+    
+- **Recorded Future eBook**  
+    [https://cyberedgegroup.com/wp-content/uploads/2018/11/Recorded-Future-eBook.pdf](https://cyberedgegroup.com/wp-content/uploads/2018/11/Recorded-Future-eBook.pdf)
+    
+
+---
+
+## ATT&CK Navigator
+
+- **Navigator**  
+    [https://mitre-attack.github.io/attack-navigator/](https://mitre-attack.github.io/attack-navigator/)
+
+---
+
+## Emulação de adversários
+
+- **MITRE — Getting Started with ATT&CK Red**  
+    [https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3](https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3)
+    
+- **Atomic Red Team**  
+    [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
+    
+- **Software ATT&CK**  
+    [https://attack.mitre.org/software/](https://attack.mitre.org/software/)
+    
+- **APT3 Adversary Emulation Plan**  
+    [https://attack.mitre.org/docs/APT3_Adversary_Emulation_Plan.pdf](https://attack.mitre.org/docs/APT3_Adversary_Emulation_Plan.pdf)
+    
+- **APT3 Field Manual**  
+    [https://attack.mitre.org/docs/APT3_Adversary_Emulation_Field_Manual.xlsx](https://attack.mitre.org/docs/APT3_Adversary_Emulation_Field_Manual.xlsx)
+    
+
+---
+
+## Assessment
+
+- **MITRE — Getting Started with ATT&CK Assessment**  
+    [https://medium.com/mitre-attack/getting-started-with-attack-assessment-cc0b01769cb4](https://medium.com/mitre-attack/getting-started-with-attack-assessment-cc0b01769cb4)
+
+---
+
+## Exemplo de artigo relacionado
+
+- **Unit 42 — new attacks linked to C0d0s0 group**  
+    [https://unit42.paloaltonetworks.com/new-attacks-linked-to-c0d0s0-group/](https://unit42.paloaltonetworks.com/new-attacks-linked-to-c0d0s0-group/)
