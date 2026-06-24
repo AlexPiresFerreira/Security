@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Conceitos/2.1. Geral.md",
+                "file": "Certificações/CHE/Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1. Geral"
+              "title": "Geral"
             }
           }
         ]
@@ -195,12 +195,14 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
+    "Certificações/CHE/ACADI-TI.md",
+    "Certificações/CHE/Geral.md",
+    "Certificações/Certificacoes-Recomendadas.md",
+    "Certificações/CHE/Simulado.md",
+    "Certificações/CHE/Blueprint.md",
+    "2. Conceitos/2.1. Geral.md",
     "Frameworks/MITRE-ATT&CK.md",
     "OSINT/Google Hacking.md",
-    "Certificações/CHE/Simulado.md",
-    "Certificações/CHE/ACADI-TI.md",
-    "Certificações/CHE/Blueprint.md",
-    "Certificações/Certificacoes-Recomendadas.md",
     "Frameworks/OWASP-Top 10.md",
     "Ferramentas/NMAP/🔍 NMAP - Network Mapper.md",
     "Security.7z",
@@ -217,7 +219,6 @@
     "Pentest/Web",
     "Pentest/Trainning Education.md",
     "2. Conceitos/2.2. Ferramentas de Privacidade Digital.md",
-    "2. Conceitos/2.1. Geral.md",
     "100. Dicas/100.1. DNS.md",
     "100. Dicas",
     "1. Lab/1.2. fork bomb em Bash.md",
@@ -232,7 +233,6 @@
     "Frameworks/CIS-Controls.md",
     "Frameworks/Cyber-Kill-Chain.md",
     "Frameworks/Metasploit.md",
-    "Frameworks/NIST-Cybersecurity.md",
     "1. Lab",
     "6. Programação/Expressões regulares/attachments/Pasted image 20260615163922.png",
     "6. Programação/Expressões regulares/attachments",
