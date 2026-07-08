@@ -1,2 +1,30 @@
 GSI
 
+Pessoas - Processos - Tecnologias
+
+Criptografia 
+- Confidencialidade
+- Cifra e Chave
+
+	- Simétrica
+		- mesma chave
+		- AES
+	- Assimétrica
+		- Publica x Privada 
+		- Certificado digital, HTTPS(SSL/TLS), SSH
+
+HASHING
+- Integridade
+
+Firewall
+	- Packet Filtering - 3 e 4
+	- Stateful Inspection - Fluxo de conexão(5, 4 e 3)
+	- Application Firewall - 7
+
+Harddening
+	-Simplificação
+	-Restrição
+	- Blindagem
+
+- 
+
