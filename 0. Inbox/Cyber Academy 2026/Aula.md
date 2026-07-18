@@ -36,4 +36,7 @@ Whoami
 - Golpe --> Há participação direta da vitima(Engenharia Social) 
 - Fraude --> Não há participação direta da vitima(Vulnerabilidade)
 
+A arte de enganar
+
+
 
