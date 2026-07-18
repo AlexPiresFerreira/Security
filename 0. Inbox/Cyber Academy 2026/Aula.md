@@ -26,5 +26,14 @@ Harddening
 	-Restrição
 	- Blindagem
 
-- 
+---
+
+Whoami
+
+### Cyber Fraud and Cybercrime
+
+#### Fraude ou Golpe?
+- Golpe --> Há participação direta da vitima(Engenharia Social) 
+- Fraude --> Não há participação direta da vitima(Vulnerabilidade)
+
 
