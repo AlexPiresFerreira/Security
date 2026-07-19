@@ -50,3 +50,9 @@ Ataque á cadeia de suprimentos
 
 Playbooks
 
+#### GRC
+
+- Governaça
+- Risco
+- Compliance
+- 
