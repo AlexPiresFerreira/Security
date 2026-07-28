@@ -53,7 +53,7 @@
 
 ## Laboratórios e Prática
 
-- [ ] Praticar reconhecimento e footprinting
+- [x ] Praticar reconhecimento e footprinting
 - [ ] Praticar scanning e enumeração
 - [ ] Praticar análise de vulnerabilidades
 - [ ] Praticar conceitos de system hacking
