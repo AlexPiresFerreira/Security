@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Cyber Academy 2026/Aula.md",
+                "file": "Certificações/Certificacoes-Recomendadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula"
+              "title": "Certificacoes-Recomendadas"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
-    "Certificações/CHE/Blueprint2.md",
     "0. Inbox/Cyber Academy 2026/Aula.md",
+    "0. Inbox/Tshoot Academy - Network Security.md",
+    "Certificações/CHE/Blueprint2.md",
     "0. Inbox/Cyber Academy 2026/Geral.md",
     "Certificações/CHE/Geral.md",
     "0. Inbox/Cyber Academy 2026",
@@ -235,7 +236,6 @@
     "1. Lab/attachments",
     "Relatrório/Geral.md",
     "00_Index.md",
-    "CEH.md",
     "Certificações/CHE",
     "6. Programação/Expressões regulares/attachments/Pasted image 20260615163922.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144451.png",
