@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Index.md",
+                "file": "012. Frameworks/CIS-Controls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Index"
+              "title": "CIS-Controls"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "45756af9d66e8685",
   "lastOpenFiles": [
+    "00_Index.md",
     "011. Conceitos/011.2 - Ataques-por-Camada.md",
     "011. Conceitos/011.1 - Glossario-Siglas.md",
     "010. Fundamentos/010.5 - CWE-CVE.md",
@@ -204,7 +205,6 @@
     "010. Fundamentos/010.3 - Risco-e-Vulnerabilidades.md",
     "010. Fundamentos/010.2 - IAAA.md",
     "010. Fundamentos/010.1 - CIA-Triad.md",
-    "00_Index.md",
     "Protocolos",
     "Ameaças/Adversarios.md",
     "Ameaças/Tipos-de-Ataques.md",
