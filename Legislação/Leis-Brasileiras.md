@@ -467,7 +467,7 @@ Lei 14.155/2021:
 
 - [[NIST-Cybersecurity]]
 - [[ISO-27001]]
-- [[Defesa-em-Profundidade]]
+- [[010.4 - Defesa-em-Profundidade]]
 - [[Incident-Response]]
 
 ---

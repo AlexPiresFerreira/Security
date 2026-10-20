@@ -709,9 +709,9 @@ Atacante força o servidor a fazer requisições para destinos não intencionado
 
 ## 🔗 Links Relacionados
 
-- [[CWE-CVE]]
+- [[010.5 - CWE-CVE]]
 - [[Tipos-de-Ataques]]
-- [[Defesa-em-Profundidade]]
+- [[010.4 - Defesa-em-Profundidade]]
 - [[NIST-Cybersecurity]]
 
 ---

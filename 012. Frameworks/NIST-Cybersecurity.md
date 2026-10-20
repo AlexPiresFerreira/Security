@@ -501,9 +501,9 @@ Gap:
 
 ## 🔗 Links Relacionados
 
-- [[CIA-Triad]]
-- [[Defesa-em-Profundidade]]
-- [[Risco-e-Vulnerabilidades]]
+- [[010.1 - CIA-Triad]]
+- [[010.4 - Defesa-em-Profundidade]]
+- [[010.3 - Risco-e-Vulnerabilidades]]
 - [[ISO-27001]]
 - [[CIS-Controls]]
 

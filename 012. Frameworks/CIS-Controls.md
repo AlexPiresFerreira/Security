@@ -856,7 +856,7 @@ CIS 7 (Vulnerability Management) → Mitigação de Initial Access CIS 10 (Malwa
 ## 🔗 Links Relacionados
 
 - [[NIST-Cybersecurity]]
-- [[Defesa-em-Profundidade]]
+- [[010.4 - Defesa-em-Profundidade]]
 - [[MITRE-ATT&CK]]
 - [[OWASP-Top-10]]
 

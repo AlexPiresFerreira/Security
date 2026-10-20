@@ -360,7 +360,7 @@ A Cyber Kill Chain é **mais simples** e **linear** que o MITRE ATT&CK.
 - [[Malwares]]
 - [[Tipos-de-Ataques]]
 - [[OSINT-Fundamentos]]
-- [[Defesa-em-Profundidade]]
+- [[010.4 - Defesa-em-Profundidade]]
 
 ---
 

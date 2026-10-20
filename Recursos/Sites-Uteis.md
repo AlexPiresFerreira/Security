@@ -545,7 +545,7 @@
 ## 🔗 Links Relacionados
 
 - [[OSINT-Fundamentos]]
-- [[CWE-CVE]]
+- [[010.5 - CWE-CVE]]
 - [[Certificacoes-Recomendadas]]
 - [[Labs-CTF]]
 

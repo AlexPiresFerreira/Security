@@ -421,7 +421,25 @@
     "uptime": 409,
     "estatistica": 410,
     "MBA": 411,
-    "USP": 412
+    "USP": 412,
+    "index": 413,
+    "MOC": 414,
+    "segurança": 415,
+    "status/wip": 1,
+    "CEH": 416,
+    "concept": 417,
+    "glossary": 418,
+    "status/done": 2,
+    "source": 419,
+    "source/meu-resumo": 1,
+    "protocol": 420,
+    "attack": 421,
+    "OSI": 422,
+    "CEH/D4": 1,
+    "tool": 423,
+    "privacy": 424,
+    "segurança/fundamentos": 1,
+    "defense": 425
   },
   "_version": 3
 }

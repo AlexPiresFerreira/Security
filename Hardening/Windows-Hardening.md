@@ -534,7 +534,7 @@ Protege credenciais na memória.
 
 - [[Active-Directory]]
 - [[CIS-Controls]]
-- [[Defesa-em-Profundidade]]
+- [[010.4 - Defesa-em-Profundidade]]
 - [[NIST-Cybersecurity]]
 
 ---

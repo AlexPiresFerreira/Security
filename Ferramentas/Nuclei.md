@@ -412,7 +412,7 @@ Nuclei organiza templates por **tags** para facilitar a busca e execução.
 - [[Nmap]]
 - [[Burp-Suite]]
 - [[OWASP-Top-10]]
-- [[CWE-CVE]]
+- [[010.5 - CWE-CVE]]
 - [[Bug-Bounty]]
 
 ---
