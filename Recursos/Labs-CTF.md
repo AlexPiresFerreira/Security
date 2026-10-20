@@ -555,7 +555,7 @@ Avançado:
 - [[Ferramentas/Metasploit]]
 - [[Burp-Suite]]
 - [[OSINT-Fundamentos]]
-- [[Esteganografia]]
+- [[013.1 - Esteganografia]]
 - [[Certificacoes-Recomendadas]]
 
 ---

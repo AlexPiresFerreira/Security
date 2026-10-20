@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "012. Frameworks/CIS-Controls.md",
+                "file": "013 - Criptografia/Fundamentos-Cripto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIS-Controls"
+              "title": "Fundamentos-Cripto"
             }
           }
         ]
@@ -195,9 +195,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "45756af9d66e8685",
+  "active": "b848a1215792fa32",
   "lastOpenFiles": [
+    "013 - Criptografia/013.1 - Esteganografia.md",
     "00_Index.md",
+    "012. Frameworks/012.5 - OWASP-Top-10.md",
+    "012. Frameworks/012.4 - NIST-Cybersecurity-Framework(CSF).md",
+    "012. Frameworks/012.3 - MITRE-ATT&CK.md",
+    "012. Frameworks/012.2 - Cyber-Kill-Chain.md",
+    "012. Frameworks/012.1 - CIS-Controls.md",
     "011. Conceitos/011.2 - Ataques-por-Camada.md",
     "011. Conceitos/011.1 - Glossario-Siglas.md",
     "010. Fundamentos/010.5 - CWE-CVE.md",
@@ -218,12 +224,6 @@
     "1. Lab/1.2. fork bomb em Bash.md",
     "1. Lab/1.1. VM.md",
     "0. Inbox/Tshoot Academy - Network Security.md",
-    "0. Inbox/Pós/Aula 3.md",
-    "0. Inbox/Cyber Academy 2026/Geral.md",
-    "0. Inbox/Cyber Academy 2026/Aula.md",
-    "Ferramentas/NMAP/🔍Network_Mapper.md",
-    "Ferramentas/NMAP/🤖NSE - Nmap Scripting Engine.md",
-    "Certificações/Certificacoes-Recomendadas.md",
     "0. Inbox/Cyber Academy 2026",
     "Security.7z",
     "Security.zip",

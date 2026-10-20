@@ -500,8 +500,8 @@ No contexto de segurança cibernética, os profissionais são frequentemente cat
 
 ## 🔗 Links Relacionados
 
-- [[MITRE-ATT&CK]]
-- [[Cyber-Kill-Chain]]
+- [[012.3 - MITRE-ATT&CK]]
+- [[012.2 - Cyber-Kill-Chain]]
 - [[Adversarios]]
 - [[OSINT-Fundamentos]]
 - [[Nmap]]

@@ -439,7 +439,11 @@
     "tool": 423,
     "privacy": 424,
     "segurança/fundamentos": 1,
-    "defense": 425
+    "defense": 425,
+    "cis-controls": 426,
+    "red-team": 427,
+    "blue-team": 428,
+    "gestao-de-riscos": 429
   },
   "_version": 3
 }

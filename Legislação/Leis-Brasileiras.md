@@ -465,7 +465,7 @@ Lei 14.155/2021:
 
 ## 🔗 Links Relacionados
 
-- [[NIST-Cybersecurity]]
+- [[012.4 - NIST-Cybersecurity-Framework(CSF)]]
 - [[ISO-27001]]
 - [[010.4 - Defesa-em-Profundidade]]
 - [[Incident-Response]]

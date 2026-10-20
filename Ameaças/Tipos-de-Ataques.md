@@ -271,9 +271,9 @@ sql ' OR '1'='1' --
 
 ## 🔗 Links Relacionados
 - [[Malwares]]
-- [[Cyber-Kill-Chain]]
+- [[012.2 - Cyber-Kill-Chain]]
 - [[OWASP-Top-10]]
-- [[MITRE-ATT&CK]]
+- [[012.3 - MITRE-ATT&CK]]
 
 ---
 

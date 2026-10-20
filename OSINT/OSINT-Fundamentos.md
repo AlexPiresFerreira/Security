@@ -489,8 +489,8 @@ port:22 country:BR os:"Windows" port:3389 product:"Apache"
 
 ## 🔗 Links Relacionados
 
-- [[Cyber-Kill-Chain]]
-- [[MITRE-ATT&CK]]
+- [[012.2 - Cyber-Kill-Chain]]
+- [[012.3 - MITRE-ATT&CK]]
 - [[Nmap]]
 - [[Footprinting]]
 - [[Phishing]]

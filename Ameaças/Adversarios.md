@@ -473,8 +473,8 @@ SolarWindows.Orion.Core.BusinessLayer.dll
 
 ## 🔗 Links Relacionados
 
-- [[MITRE-ATT&CK]]
-- [[Cyber-Kill-Chain]]
+- [[012.3 - MITRE-ATT&CK]]
+- [[012.2 - Cyber-Kill-Chain]]
 - [[Malwares]]
 - [[OSINT-Fundamentos]]
 - [[Threat-Intelligence]]

@@ -533,9 +533,9 @@ Protege credenciais na memória.
 ## 🔗 Links Relacionados
 
 - [[Active-Directory]]
-- [[CIS-Controls]]
+- [[012.1 - CIS-Controls]]
 - [[010.4 - Defesa-em-Profundidade]]
-- [[NIST-Cybersecurity]]
+- [[012.4 - NIST-Cybersecurity-Framework(CSF)]]
 
 ---
 

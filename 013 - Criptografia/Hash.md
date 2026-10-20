@@ -340,7 +340,7 @@ Bloco anterior: Hash A Transações: … Nonce: 12345 Hash do bloco: SHA256(A + 
 - [[Criptografia]]
 - [[PKI-Certificados]]
 - [[IPSec]]
-- [[Esteganografia]]
+- [[013.1 - Esteganografia]]
 
 ---
 
