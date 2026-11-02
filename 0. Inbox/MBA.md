@@ -79,6 +79,7 @@ curl -s -X POST <URL> -d <"username=user&password=senha">
 
 # DevSecOps
 
+Semgrep
 
 
 ### Aula 3
