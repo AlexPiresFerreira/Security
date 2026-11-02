@@ -12,3 +12,8 @@ inotify-tools
 ![[Pasted image 20261101184523.png]]
 
 ![[Pasted image 20261101184740.png]]
+
+speechify.com
+elevenlabs.io
+veed.io
+
