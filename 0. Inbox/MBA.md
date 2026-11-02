@@ -17,3 +17,22 @@ speechify.com
 elevenlabs.io
 veed.io
 
+submarinecablemap.com
+
+### DNS
+- root-servers.org
+- Arquivo de configuração: cat /etc/resolv.conf
+- Verificação de IP: host <URL> | nslookup <URL> | dig +short <URL>
+- CDN (rede de distribuição de conteúdo)
+- apelido (CNAME)
+- Endereço IP(A)
+
+### IP/TCP
+
+SYN("alô") --> SYN-ACK("alo, pode falar") --> ACK("combinado")
+hostname -I
+nc -zv <URL> <Porta>
+ip router
+ip neighbor
+whois
+mtr -u -r -c 5
