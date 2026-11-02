@@ -36,3 +36,6 @@ ip router
 ip neighbor
 whois
 mtr -u -r -c 5
+getent hosts <nome>
+
+https://stackoverflow.com
