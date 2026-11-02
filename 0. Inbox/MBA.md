@@ -1,8 +1,12 @@
+262
+
 
 ![[Pasted image 20261101181021.png]]
 
-apt inmstall bat 
-	batcat
+- apt inmstall bat 
+	- batcat
+	- https://github.com/sharkdp/bat
+		
 
 inotify-tools
 
@@ -24,6 +28,7 @@ submarinecablemap.com
 - Arquivo de configuração: cat /etc/resolv.conf
 - Verificação de IP: host <URL> | nslookup <URL> | dig +short <URL>
 - CDN (rede de distribuição de conteúdo)
+	- https://www.cloudflare.com/pt-br/learning/cdn/what-is-a-cdn/
 - apelido (CNAME)
 - Endereço IP(A)
 
@@ -72,5 +77,15 @@ curl -s -X POST <URL> -d <"username=user&password=senha">
 
 ### Cross-Site script
 
+# DevSecOps
+
+
+
+### Aula 3
+https://guilhermeonrails.github.io/aula-3-html/
+
+https://marianabsctba.github.io/Linux_Cheat_Sheet/
+https://usehatch.dev/p/ddgOWW5LITp7obdy
+https://docs.docker.com/get-started/get-docker/
 
 
