@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/MBA.md",
+                "file": "010. Fundamentos/010.6 - Fundamentos de Ethical Hacking.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MBA"
+              "title": "010.6 - Fundamentos de Ethical Hacking"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "cf011aaa44fbc081",
   "lastOpenFiles": [
+    "010. Fundamentos/010.5 - CWE-CVE.md",
+    "010. Fundamentos/010.6 - Fundamentos de Ethical Hacking.md",
     "0. Inbox/MBA.md",
     "0. Inbox/attachments/Pasted image 20261102145410.png",
     "0. Inbox/attachments/Pasted image 20261101184740.png",
@@ -216,7 +218,6 @@
     "012. Frameworks/012.1 - CIS-Controls.md",
     "011. Conceitos/011.2 - Ataques-por-Camada.md",
     "011. Conceitos/011.1 - Glossario-Siglas.md",
-    "010. Fundamentos/010.5 - CWE-CVE.md",
     "010. Fundamentos/010.4 - Defesa-em-Profundidade.md",
     "010. Fundamentos/010.3 - Risco-e-Vulnerabilidades.md",
     "010. Fundamentos/010.2 - IAAA.md",
