@@ -89,6 +89,16 @@ https://marianabsctba.github.io/Linux_Cheat_Sheet/
 https://usehatch.dev/p/ddgOWW5LITp7obdy
 https://docs.docker.com/get-started/get-docker/
 
+### SCA(Software Composition Analysis)
+    - requeirements.txt
+    - package.json
+- Incidentes relacionados a supply-chain
+- Gestão de Risco em código de Terceiros
+
+### IaC Security & Hardening de Dockerfiles
+
+
+
 ---
 
 ## 🔐 Fundamentos de Ethical Hacking
@@ -664,3 +674,5 @@ CTF{...}    flag{...}    HTB{...}
 
 should surfing
 White Box: DAST e SAST
+
+
