@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010. Fundamentos/010.6 - Fundamentos de Ethical Hacking.md",
-                "mode": "preview",
+                "file": "0. Inbox/Inbox.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "010.6 - Fundamentos de Ethical Hacking"
+              "title": "Inbox"
             }
           }
         ]
@@ -197,9 +197,12 @@
   },
   "active": "cf011aaa44fbc081",
   "lastOpenFiles": [
+    "0. Inbox/attachments/Pasted image 20261121130609.png",
+    "0. Inbox/0. Inbox.md",
+    "0. Inbox/Inbox.md",
+    "010. Fundamentos/010.6 - Fundamentos de Ethical Hacking.md",
     "0. Inbox/MBA.md",
     "0. Inbox/Tshoot Academy - Network Security.md",
-    "010. Fundamentos/010.6 - Fundamentos de Ethical Hacking.md",
     "010. Fundamentos/010.5 - CWE-CVE.md",
     "0. Inbox/attachments/Pasted image 20261102145410.png",
     "0. Inbox/attachments/Pasted image 20261101184740.png",
@@ -228,9 +231,6 @@
     "Ameaças/Malwares.md",
     "Ameaças/Hackers-e-Teams.md",
     "2. Conceitos/2.1. Geral.md",
-    "Ferramentas/2.2. Ferramentas de Privacidade Digital.md",
-    "Ataques-por-Camada-OSI.md",
-    "Conceitos-MOC.md",
     "0. Inbox/Cyber Academy 2026",
     "Security.7z",
     "Security.zip",
