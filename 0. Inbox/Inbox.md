@@ -23,3 +23,7 @@
 
 - https://www.facebook.com/reel/1963843607843554
 
+# Curso Comptia Security+
+
+- https://www.youtube.com/playlist?list=PLsa3hBEdOOQVoVT6YC7LImvoi5Sq_AQtF
+
