@@ -406,15 +406,3 @@ Estabelecer → Operar → Supervisionar ↓ ↓ ↓ Escopo, Matriz de Revisar m
 ✅ O que foi incluído
 Este resumo cobre as duas aulas completas:
 
-Aula I	Aula II
-Fundamentos e ética	Auditoria (programa, procedimentos, evidências)
-Governança vs. Gestão	Ferramentas (ITSM, IAM, PAM, SIEM, SQL)
-NIST CSF 2.0	Dashboards e indicadores (KPI, KRI, KCI)
-ISO 27001/27002/27701	Monitoramento contínuo
-COBIT 2019	Caso integrado completo
-LGPD e ANPD	Comunicação de incidentes
-
-Exportar
-
-Copiar
-
